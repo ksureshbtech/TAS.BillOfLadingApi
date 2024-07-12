@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillOfLadingAPI", "BillOfLadingAPI\BillOfLadingAPI.csproj", "{E69B08CE-DD42-4CB4-9950-8B16020CA2ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E69B08CE-DD42-4CB4-9950-8B16020CA2ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E69B08CE-DD42-4CB4-9950-8B16020CA2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E69B08CE-DD42-4CB4-9950-8B16020CA2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E69B08CE-DD42-4CB4-9950-8B16020CA2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {978E6D5F-717D-4F76-9E58-683647C63651}
+	EndGlobalSection
+EndGlobal
